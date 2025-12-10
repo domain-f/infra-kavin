@@ -1,0 +1,8 @@
+total 16
+drwxrwxr-x 3 kavin kavin 4096 Dec 10 16:04 ./
+drwxrwxr-x 4 kavin kavin 4096 Dec 10 14:55 ../
+-rw-rw-r-- 1 kavin kavin    0 Dec 10 16:04 file2
+-rw-rw-r-- 1 kavin kavin    0 Dec 10 16:04 file3
+-rw-rw-r-- 1 kavin kavin    0 Dec 10 16:04 file4
+-rw-rw-r-- 1 kavin kavin  114 Dec 10 16:03 first_file
+drwxrwxr-x 8 kavin kavin 4096 Dec 10 16:03 .git/
